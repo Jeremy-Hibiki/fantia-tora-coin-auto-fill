@@ -13,6 +13,12 @@ export default defineConfig({
         namespace: 'https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill',
         icon: 'https://fantia.jp/assets/customers/favicon-32x32-8ab6e1f6c630503f280adca20d089646e0ea67559d5696bb3b9f34469e15c168.png',
         match: ['https://fantia.jp/mypage/users/coins/charges'],
+        updateURL:
+          'https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill/releases/latest/download/fantia-tora-coin-auto-fill.user.js',
+        downloadURL:
+          'https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill/releases/latest/download/fantia-tora-coin-auto-fill.user.js',
+        supportURL: 'https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill/issues',
+        homepageURL: 'https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill',
       },
     }),
   ],
