@@ -4,7 +4,7 @@
 
 Github: https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill/releases/latest/download/fantia-tora-coin-auto-fill.user.js
 
-GreasyFork:
+GreasyFork: https://update.greasyfork.org/scripts/502590/Fantia%20TORA%20COIN%20%E5%BA%8F%E5%88%97%E7%A0%81%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99.user.js
 
 ## CN
 
