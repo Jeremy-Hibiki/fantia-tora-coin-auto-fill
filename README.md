@@ -2,6 +2,10 @@
 
 [中文](#cn) | [English](#en) | [日本語](#jp)
 
+Github: https://github.com/Jeremy-Hibiki/fantia-tora-coin-auto-fill/releases/latest/download/fantia-tora-coin-auto-fill.user.js
+
+GreasyFork:
+
 ## CN
 
 复制您获得的序列号，在任意一个输入框中黏贴，脚本将自动填充所有 4 个输入框。
